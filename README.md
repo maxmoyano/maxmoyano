@@ -1,7 +1,6 @@
-# Hi , welcome to my page
-# I am an astronomer
-# My current affiliation is Instituto de Astronomía, Universidad Católica del Norte
-# Im interested in exoplanets
+Hi , welcome to my page
+I am an astronomer
+Im interested in exoplanets and low mass stars
 <!--
 **maxmoyano/maxmoyano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
