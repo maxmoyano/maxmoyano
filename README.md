@@ -1,6 +1,6 @@
-Hi , welcome to my page
-I am an astronomer
-Im interested in exoplanets and low mass stars
+Hi , welcome to my page.
+I am an astronomer.
+Im interested in exoplanets and low mass stars.
 <!--
 **maxmoyano/maxmoyano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
